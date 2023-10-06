@@ -105,7 +105,7 @@ document.querySelector('.js-order-summary')
       removeFromCart(productId);
 
       const container = document.querySelector(
-        `.js-cart-item-container-${productsId}`
+        `.js-cart-item-container-${productId}` 
       );
       container.remove()
     });
