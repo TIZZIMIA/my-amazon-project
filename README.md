@@ -7,3 +7,4 @@ Here's the code at the end of JavaScript Course Lesson 13 (if you need it).
 
 That's it! Now you're ready to follow along.
 "# amazon-new" 
+"# amazon-new" 
